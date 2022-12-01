@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-01T16:07:04.564898700Z</date>
+  <millis>1669910824564</millis>
+  <nanos>898700</nanos>
+  <sequence>0</sequence>
+  <logger>Homework_1.BubbleSort.bubblesort</logger>
+  <level>INFO</level>
+  <class>Homework_1.BubbleSort.bubblesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Иттерация сортировки [3, 7, 5, 12, 45, 2, 0]</message>
+</record>
+<record>
+  <date>2022-12-01T16:07:04.651950600Z</date>
+  <millis>1669910824651</millis>
+  <nanos>950600</nanos>
+  <sequence>1</sequence>
+  <logger>Homework_1.BubbleSort.bubblesort</logger>
+  <level>INFO</level>
+  <class>Homework_1.BubbleSort.bubblesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Иттерация сортировки [2, 7, 5, 12, 45, 3, 0]</message>
+</record>
+<record>
+  <date>2022-12-01T16:07:04.652967600Z</date>
+  <millis>1669910824652</millis>
+  <nanos>967600</nanos>
+  <sequence>2</sequence>
+  <logger>Homework_1.BubbleSort.bubblesort</logger>
+  <level>INFO</level>
+  <class>Homework_1.BubbleSort.bubblesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Иттерация сортировки [0, 7, 5, 12, 45, 3, 2]</message>
+</record>
+<record>
+  <date>2022-12-01T16:07:04.654951100Z</date>
+  <millis>1669910824654</millis>
+  <nanos>951100</nanos>
+  <sequence>3</sequence>
+  <logger>Homework_1.BubbleSort.bubblesort</logger>
+  <level>INFO</level>
+  <class>Homework_1.BubbleSort.bubblesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Иттерация сортировки [0, 5, 7, 12, 45, 3, 2]</message>
+</record>
+<record>
+  <date>2022-12-01T16:07:04.656952900Z</date>
+  <millis>1669910824656</millis>
+  <nanos>952900</nanos>
+  <sequence>4</sequence>
+  <logger>Homework_1.BubbleSort.bubblesort</logger>
+  <level>INFO</level>
+  <class>Homework_1.BubbleSort.bubblesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Иттерация сортировки [0, 3, 7, 12, 45, 5, 2]</message>
+</record>
+<record>
+  <date>2022-12-01T16:07:04.658952700Z</date>
+  <millis>1669910824658</millis>
+  <nanos>952700</nanos>
+  <sequence>5</sequence>
+  <logger>Homework_1.BubbleSort.bubblesort</logger>
+  <level>INFO</level>
+  <class>Homework_1.BubbleSort.bubblesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Иттерация сортировки [0, 2, 7, 12, 45, 5, 3]</message>
+</record>
+<record>
+  <date>2022-12-01T16:07:04.660955400Z</date>
+  <millis>1669910824660</millis>
+  <nanos>955400</nanos>
+  <sequence>6</sequence>
+  <logger>Homework_1.BubbleSort.bubblesort</logger>
+  <level>INFO</level>
+  <class>Homework_1.BubbleSort.bubblesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Иттерация сортировки [0, 2, 5, 12, 45, 7, 3]</message>
+</record>
+<record>
+  <date>2022-12-01T16:07:04.663957600Z</date>
+  <millis>1669910824663</millis>
+  <nanos>957600</nanos>
+  <sequence>7</sequence>
+  <logger>Homework_1.BubbleSort.bubblesort</logger>
+  <level>INFO</level>
+  <class>Homework_1.BubbleSort.bubblesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Иттерация сортировки [0, 2, 3, 12, 45, 7, 5]</message>
+</record>
+<record>
+  <date>2022-12-01T16:07:04.665969200Z</date>
+  <millis>1669910824665</millis>
+  <nanos>969200</nanos>
+  <sequence>8</sequence>
+  <logger>Homework_1.BubbleSort.bubblesort</logger>
+  <level>INFO</level>
+  <class>Homework_1.BubbleSort.bubblesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Иттерация сортировки [0, 2, 3, 7, 45, 12, 5]</message>
+</record>
+<record>
+  <date>2022-12-01T16:07:04.667956300Z</date>
+  <millis>1669910824667</millis>
+  <nanos>956300</nanos>
+  <sequence>9</sequence>
+  <logger>Homework_1.BubbleSort.bubblesort</logger>
+  <level>INFO</level>
+  <class>Homework_1.BubbleSort.bubblesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Иттерация сортировки [0, 2, 3, 5, 45, 12, 7]</message>
+</record>
+<record>
+  <date>2022-12-01T16:07:04.670958700Z</date>
+  <millis>1669910824670</millis>
+  <nanos>958700</nanos>
+  <sequence>10</sequence>
+  <logger>Homework_1.BubbleSort.bubblesort</logger>
+  <level>INFO</level>
+  <class>Homework_1.BubbleSort.bubblesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Иттерация сортировки [0, 2, 3, 5, 12, 45, 7]</message>
+</record>
+<record>
+  <date>2022-12-01T16:07:04.672960200Z</date>
+  <millis>1669910824672</millis>
+  <nanos>960200</nanos>
+  <sequence>11</sequence>
+  <logger>Homework_1.BubbleSort.bubblesort</logger>
+  <level>INFO</level>
+  <class>Homework_1.BubbleSort.bubblesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Иттерация сортировки [0, 2, 3, 5, 7, 45, 12]</message>
+</record>
+<record>
+  <date>2022-12-01T16:07:04.675960200Z</date>
+  <millis>1669910824675</millis>
+  <nanos>960200</nanos>
+  <sequence>12</sequence>
+  <logger>Homework_1.BubbleSort.bubblesort</logger>
+  <level>INFO</level>
+  <class>Homework_1.BubbleSort.bubblesort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Иттерация сортировки [0, 2, 3, 5, 7, 12, 45]</message>
+</record>
+</log>
