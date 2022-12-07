@@ -12,6 +12,7 @@ public class task1 {
         System.out.println("Hello World");
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy, HH:mm:ss");
         System.out.println(LocalDateTime.now().format(formatter));
+        System.out.println("Привет мир");
     }
     
 
