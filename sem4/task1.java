@@ -1,3 +1,5 @@
+package sem4;
+
 import java.util.LinkedList;
 
 public class task1 {
