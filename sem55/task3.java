@@ -1,4 +1,4 @@
-package sem5;
+package sem55;
 
 public class task3{
     public void sort(int arr[])
